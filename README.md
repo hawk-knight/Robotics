@@ -42,7 +42,10 @@ Industrail Robot
  
   ให้เข้าไป download และติดตั้งโปรแกรมในเครื่องคอมพิวเตอร์ 
   
-  This contents have been updating soon.
+ การใช้งานเบื้องต้น
+ 
+ 
+ #### This contents have been updating soon.
   
  
   
