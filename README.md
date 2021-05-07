@@ -38,7 +38,11 @@ Industrail Robot
   
   **จำเป็นต้องกรอกข้อมูล ชื่อ นามสกุล และ email 
   
+  เมื่อกด submit แล้วจะได้รับ link สำหรับการ download โปรแกรมผ่านทาง email ที่ได้ให้ข้อมูลไว้
  
-  ติดตั้งโปรแกรมในเครื่องคอมพิวเตอร์ เลือกตัวเลือก lincensing เป็น Free Trial
+  ให้เข้าไป download และติดตั้งโปรแกรมในเครื่องคอมพิวเตอร์ 
   
+  This contents have been updating soon.
+  
+ 
   
