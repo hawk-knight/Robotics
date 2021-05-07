@@ -32,9 +32,11 @@ Industrail Robot
  นักศึกษาสามารถใช้งานในแบบ FreeTrial ได้ในระยะเวลาที่กำหนด 
  
  วิธีติดตั้ง
-  1 Download โปรแกรมล่าสุดได้จาก Link
-  
+  1 Download โปรแกรมล่าสุดได้หลังจากการลงทะเบียนใน Link ที่แสดงไว้นี้
+   
   https://new.abb.com/products/robotics/robotstudio/downloads
+  
+  **จำเป็นต้องกรอกข้อมูล ชื่อ นามสกุล และ email 
   
  
   ติดตั้งโปรแกรมในเครื่องคอมพิวเตอร์ เลือกตัวเลือก lincensing เป็น Free Trial
