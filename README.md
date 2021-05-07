@@ -9,6 +9,7 @@ Mobile Robot
 
 Industrail Robot 
     เรียนเกี่ยวกับหุ่นยนต์อุตสาหกรรมประเภทต่างๆ เช่น 
+    
     * Gantry Robot แขนกลเคลื่อนที่ไปมาด้วย Prismatic Joint ซึ่งมีลักษณะยืดหดหรือเลื่อนไปมาเป็นเชิงเส้น ตามแนวแกน X Y Z (3P) มีพื้นที่ทำงาน (Working Space) เป็นรูปทรงสี่เหลี่ยมผืนผ้า
     * Cylindrical Robot แขนกลเคลื่อนที่หมุนรอบแกน 1 แกน และเคลือ่นที่ โดยมีข้อต่อที่เป็นการหมุนรอบแกน Rotational Joint ร่วมกับ Prismatic Joint  (R2P) มีพื้นที่ทำงาน (Working Space) เป็นรูปทรงกระบอก 
     * Spherical Robot แขนกลจะมีแกนหมุนรอบแกน 2 แกน และมี Prismatic Joint รวมด้วย (2RP) ทำให้มีพื้นที่ทำงาน (Working Space) เป็นรูปทรงครึ่งวงกลม
